@@ -1,0 +1,12 @@
+{
+  "name": "@afsv/eslint-base-config",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.13.0"
+  }
+}
